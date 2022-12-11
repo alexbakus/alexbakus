@@ -4,22 +4,23 @@ I'm currently doing everything I can to support Ukraine and her fight for sovere
 
 #### Pursuits
 
-- 📐 Analytics and Decision Making
-
-- 🏴‍☠ Strategy AND Execution
-
 - 🇺🇦 Vice Chairperson, CFO [Mriya Aid Org](https://www.MriyaAid.org) 
 
 #### Past
 
 - 📚 Queens University, MMAI 2020 [Masters of Management in Artificial Intelligence](https://smith.queensu.ca/grad_studies/mmai/index.php)
 
+<!--
+**alexbakus/alexbakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 📐 Analytics and Decision Making
+
+- 🏴‍☠ Strategy AND Execution
+
 - 🛍️ Shopify
 
 - 🏥 Fullscript
-
-<!--
-**alexbakus/alexbakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
