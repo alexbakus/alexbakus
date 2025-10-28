@@ -1,15 +1,14 @@
-### 👋 Hi there
-
-I'm currently doing everything I can to support Ukraine and her fight for sovereignty and independence. To that degree, my friends and I launched a not for profit organization that helps Ukraine's soldiers on the front. Donate to [Mriya Aid Org](https://www.MriyaAid.org) and join us to win this fight together. 💛💙 
 
 #### Pursuits
 
-- 🇺🇦 Vice Chairperson, CFO [Mriya Aid Org](https://www.MriyaAid.org) 
+- 🇺🇦 Principal Investor, Tatova Inc.
 
 #### Past
 
-- 📚 Queens University, MMAI 2020 [Masters of Management in Artificial Intelligence](https://smith.queensu.ca/grad_studies/mmai/index.php)
-
+- 📚 Queens University. MMAI 2020 [Masters of Management in Artificial Intelligence](https://smith.queensu.ca/grad_studies/mmai/index.php)
+- ⚕️ Fullscript. Director of Revenue Operations [Fullscript](https://www.fullscript.com)
+- 🛍️ Shopify. Merchant Operations, Shopify Point of Sale GTM, Shopify Finance GTM. [Shopify Point of Sale](https://www.shopify.ca/pos)
+- 🇺🇦 MriyaAid Canada. Founder, Director, Vice Chair, Treasury 
 <!--
 **alexbakus/alexbakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
